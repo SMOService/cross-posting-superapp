@@ -85,7 +85,14 @@
 
 ## Экосистема
 
-Cross-Posting Superapp — часть posting-стека SMOService:
+Superapp — это слой **рассылки**. Остальное для ведения канала закрывают соседние боты — создать контент, достать медиа, перенести между каналами:
+
+- **[@ZavodClawbot](https://t.me/ZavodClawbot)** — ИИ Контент-Завод: источники → ИИ пишет оригинальные посты в стиле канала и публикует по расписанию
+- **[@TonChatAIbot](https://t.me/TonChatAIbot)** — AI-ассистент для текстов, картинок и идей ([tonchat.ai](https://tonchat.ai))
+- **[@SaveVideoProbot](https://t.me/SaveVideoProbot)** — скачивание видео из TikTok / YouTube / Reels / VK для постов
+- **[@BridgePostBot](https://t.me/BridgePostBot)** — копирование и AI-перевод постов между Telegram-каналами
+
+Open-source кирпичики:
 
 - **[Buffer Poster Bot](https://github.com/SMOService/buffer-poster-bot)** — self-hostable single-user предшественник (open source, MIT)
 - **[Cross-Post Bridge AI bot](https://github.com/SMOService/Cross-Post-Bridge-AI-bot)** — AI-мосты между TG-каналами с рерайтом и переводом
