@@ -103,7 +103,6 @@ Open-source building blocks:
 
 - Issues, feature requests, integration questions → [open an issue](https://github.com/SMOService/cross-posting-superapp/issues/new)
 - Security disclosures → [SECURITY.md](SECURITY.md)
-- General contact → **support@smoservice.media**
 
 ---
 

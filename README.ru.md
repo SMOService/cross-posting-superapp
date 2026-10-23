@@ -103,7 +103,6 @@ Open-source кирпичики:
 
 - Вопросы, фичи, интеграция → [issue в репо](https://github.com/SMOService/cross-posting-superapp/issues/new)
 - Уязвимости → [SECURITY.md](SECURITY.md)
-- Общий контакт → **support@smoservice.media**
 
 ---
 
